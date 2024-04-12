@@ -71,7 +71,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 17. check for execution of the output by switching the board to run mode 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include "stdbool.h"
 bool IRSENSOR;
@@ -185,7 +185,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 
-
+```
 ## Output  :
 ![image](https://github.com/durgadevi22d/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/149987216/6c22ea0c-27ae-45f0-b05e-ca246aedf0f4)
 
